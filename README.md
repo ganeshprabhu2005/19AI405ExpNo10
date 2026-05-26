@@ -1,7 +1,7 @@
 # EX-10 : IMPLEMENTATION OF CLASSICAL PLANNING ALGORITHM 
 
-### NAME : SHAHIN J
-### REGISTER NUMBER : 212223040190
+### NAME : GANESH PRABHU J
+### REGISTER NUMBER : 212223220023
 
 ## AIM : 
  To implement the classical planning algorithm using python.
